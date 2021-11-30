@@ -1,1 +1,1 @@
-# devops-netologyВ локальной папке terraform будут проигнорированы коммиты для всех файловс расширением *.tfstate *.tfstate.* *.tfvars *_override.tf*_override.tf.jsonдля файлов.terraformrcoverride.tfoverride.tf.jsonterraform.rccrash.log
+# devops-netologyР’ Р»РѕРєР°Р»СЊРЅРѕР№ РїР°РїРєРµ terraform Р±СѓРґСѓС‚ РїСЂРѕРёРіРЅРѕСЂРёСЂРѕРІР°РЅС‹ РєРѕРјРјРёС‚С‹ РґР»СЏ РІСЃРµС… С„Р°Р№Р»РѕРІСЃ СЂР°СЃС€РёСЂРµРЅРёРµРј *.tfstate *.tfstate.* *.tfvars *_override.tf*_override.tf.jsonРґР»СЏ С„Р°Р№Р»РѕРІ.terraformrcoverride.tfoverride.tf.jsonterraform.rccrash.log
